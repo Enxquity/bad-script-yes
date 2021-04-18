@@ -3,7 +3,7 @@ local loader = {}
 loader.Games = {
 	["Your Bizarre Adventure"] = {
 		["Id"] = 2809202155,
-		["Loadstring"] = "https://raw.githubusercontent.com/Enxquity/bad-script-yes/main/the%20best%20script%20ever",
+		["Loadstring"] = "https://raw.githubusercontent.com/Enxquity/bad-script-yes/main/loader",
 		["Extra_Args"] = {
 			["espColor"] = Color3.fromRGB(0,0,0)
 		}
