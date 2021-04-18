@@ -235,3 +235,5 @@ function loader.Init()
 		end)
 	end
 end
+
+loader.Init()
