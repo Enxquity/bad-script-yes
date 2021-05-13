@@ -632,6 +632,7 @@
 		MenuButton.TextScaled = true
 		MenuButton.TextSize = 14.000
 		MenuButton.TextWrapped = true
+		MenuButton.ZIndex = 1000
 
 		UICorner5.CornerRadius = UDim.new(0.5, 0)
 		UICorner5.Parent = Dropdown
