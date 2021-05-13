@@ -728,6 +728,7 @@
 		circle.AnchorPoint = Vector2.new(0.5,0.5)
 		circle.BackgroundTransparency = 1
 		circle.ScaleType = Enum.ScaleType.Stretch
+		circle.ZIndex = 10000000
 		local circleThing = Instance.new("UICorner",circle)
 		circleThing.CornerRadius = UDim.new(1,0)
 		circle.Size = UDim2.new(0,0,0,0)
