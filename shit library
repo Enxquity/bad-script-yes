@@ -858,7 +858,6 @@
 		
 		changeProperties(props,newButton);
 		bindToPress(newButton,function(x,y)
-			f();
 			if bool then
 				local circle = MainUI:FindFirstChild("PossibleAssets").ButtonCircle:Clone();
 				circle.Parent = newButton;
@@ -876,6 +875,7 @@
 				tween.Completed:Wait()
 				circle:Destroy();
 			end
+			f();
 		end)
 		
 		table.insert(self.Assets,newButton)
