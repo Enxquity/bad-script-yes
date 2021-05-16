@@ -7,9 +7,9 @@ loader.Games = {
 		["Extra_Args"] = {
 			["espColor"] = Color3.fromRGB(255,255,255)
 		}
-	}
+	},
 	
-	{"Midnight Racing: MT. Osuki"} = {
+	["Midnight Racing: MT. Osuki"] = {
 		["Id"] = 3771109383,
 		["Loadstring"] = "https://raw.githubusercontent.com/Enxquity/bad-script-yes/main/midnightracing",
 		["Extra_Args"] = {
