@@ -9,9 +9,9 @@ loader.Games = {
 		}
 	}
 	
-	{"Midnight Racing: "} = {
+	{"Midnight Racing: MT. Osuki"} = {
 		["Id"] = 3771109383,
-		["Loadstring"] = "https://raw.githubusercontent.com/Enxquity/bad-script-yes/main/midnightracing"
+		["Loadstring"] = "https://raw.githubusercontent.com/Enxquity/bad-script-yes/main/midnightracing",
 		["Extra_Args"] = {
 		
 		}
