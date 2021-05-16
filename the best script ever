@@ -8,6 +8,14 @@ loader.Games = {
 			["espColor"] = Color3.fromRGB(255,255,255)
 		}
 	}
+	
+	{"Midnight Racing: "} = {
+		["Id"] = 3771109383,
+		["Loadstring"] = "https://raw.githubusercontent.com/Enxquity/bad-script-yes/main/midnightracing"
+		["Extra_Args"] = {
+		
+		}
+	}
 }
 
 function loader.ValidGame(id)
